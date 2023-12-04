@@ -1,3 +1,8 @@
+/*
+Nome dos Integrantes: Carine Ghisi Cadorin e Sandro ronaldo Ostjen
+Intenção do Projeto: Era fazer um aplicativo financeiro que pudesse localizar o banco, organizar as contas e ver o gastos finais. Contudo foi possivel fazer apenas a tela de Login/Cadastro funcionando com o Banco Firebase e enviado as informações para a tela Home, que dentro possui uma Api com a câmera do celular.
+*/
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
