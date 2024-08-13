@@ -1,5 +1,5 @@
 /*
-Nome dos Integrantes: Carine Ghisi Cadorin e Sandro ronaldo Ostjen
+Nome do Integrante: Carine Ghisi Cadorin
 Intenção do Projeto: Era fazer um aplicativo financeiro que pudesse localizar o banco, organizar as contas e ver o gastos finais. Contudo foi possivel fazer apenas a tela de Login/Cadastro funcionando com o Banco Firebase e enviado as informações para a tela Home, que dentro possui uma Api com a câmera do celular.
 */
 
